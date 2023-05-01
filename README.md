@@ -1,7 +1,7 @@
-# SPROCKET CENTRAL PTY LTD (KPMG)
+### SPROCKET CENTRAL PTY LTD (KPMG)
 This is a KMPG AU Data Analytics virtual internship.
 
-## ABOUT SPROCKET CENTRAL PTY LTD (KPMG)
+### ABOUT SPROCKET CENTRAL PTY LTD (KPMG)
 Sprocket Central Pty Ltd , a medium size bikes & cycling accessories organisation.
 
 
