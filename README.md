@@ -12,13 +12,13 @@ Also, to find solutions to the above 3 segments/Parts created by the KPMG.
 
 
 ### PROBLEM OBJECTIVES
-####Task1:Data Quality Assessment
+#### Task1:Data Quality Assessment
 Draft an email to the client identifying the data quality issues and strategies to mitigate these issues.
 Solution:
 ![SPROCKETPT1.docx](https://github.com/myroyalgold/Sprocket_Central_Pty-KPMG-/files/11366105/SPROCKETPT1.docx)
 
 
-####Task2:DATA INSIGHTS
+#### Task2:DATA INSIGHTS
 Prepare a detailed approach for completing the analysis including activities – i.e.
 understanding the data distributions, feature engineering, data transformations,
 modelling, results interpretation and reporting. This detailed plan needs to be presented
@@ -26,7 +26,7 @@ to the client to get a sign-off. Please advise what steps you would take.
 Solution:
 
 
-####Task3:DATA INSIGHTS AND PRESENTATION
+#### Task3:DATA INSIGHTS AND PRESENTATION
 - What is the total number of customers?
 - What are the trends in the underlying data?
 - Which customer segment has the highest customer value?
