@@ -8,7 +8,6 @@ Sprocket Central Pty Ltd , a medium size bikes & cycling accessories organisatio
 The purpose of this data set is for me to work as a data analyst(Partner) in KPMG’s Lighthouse & Innovation Team.
 Also, to find solutions to the above 3 segments/Parts created by the KPMG.
 
-### PROBLEM OBJECTIVES
 #### Task1:Data Quality Assessment
 Draft an email to the client identifying the data quality issues and strategies to mitigate these issues.
 Solution:
