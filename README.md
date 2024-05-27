@@ -13,7 +13,6 @@ Draft an email to the client identifying the data quality issues and strategies 
 Solution:
 ![SPROCKETPT1.docx](https://github.com/myroyalgold/Sprocket_Central_Pty-KPMG-/files/11366105/SPROCKETPT1.docx)
 
-
 #### Task2:DATA INSIGHTS
 Prepare a detailed approach for completing the analysis including activities – i.e.
 understanding the data distributions, feature engineering, data transformations,
